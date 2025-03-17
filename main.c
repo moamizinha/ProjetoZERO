@@ -3,6 +3,7 @@
 
 int main(){
 ListaDeTarefas lt;
+lt.qtd=0;
 char arquivo[] = "tarefas";
 int codigo, opcao;
 
